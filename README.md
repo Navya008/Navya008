@@ -19,12 +19,6 @@ Hi there! I'm **Navya Pradeep**, an enthusiastic B.Tech student specializing in 
 
 ---
 
-## 📊 GitHub Stats:
-![Navya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navya008&show_icons=true&theme=github_dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Navya008&layout=compact&theme=github_dark)
-
----
-
 ## 🏆 Achievements:
 - ✨ Completed internships in **hardware design** and **software development**
 - 💡 Participated in student-led projects involving **gravity & magnetic data detection**
